@@ -55,3 +55,6 @@ pip install streamlit
 ### 4️⃣ Run the app
 
 streamlit run app.py
+
+
+![App Screenshot](https://github.com/areebkhan-ds/Python-Bank-System/tree/main/Figures)
